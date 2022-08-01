@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="padraoavaliashop">#0c336a</color>
+    <color name="barnotificationcol">#0c336a</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="cinza">#D5D4D4</color>
+    <color name="cinza_escuro">#989797</color>
+    <color name="cinza_mais_escuro">#616161</color>
+    <color name="azul_claro">#B2D9FB</color>
+    <color name="azul_branco">#CBE1F4</color>
+    <color name="vermelho">#FF0000</color>
+    <color name="verde">#008000</color>
+    <color name="verde_claro">#CFF575</color>
+    <color name="translucido">#70000000</color>
+    <color name="laranja">#FF7F00</color>
+    <color name="laranjae">#008000</color>
+
+</resources>
